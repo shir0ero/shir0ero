@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Competitive Programming
+
+[![Codeforces](https://cf.leed.at?id=Ayush_Raj100)](https://codeforces.com/profile/Ayush_Raj100)
+
+![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/stats?username=Ayush_Raj100)
